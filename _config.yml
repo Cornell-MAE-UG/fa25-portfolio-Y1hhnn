@@ -35,6 +35,7 @@ collections:
 # Markdown
 markdown: kramdown
 kramdown:
+  math_engine: mathjax
   input: GFM
 
 # Plugins (previously gems:)
