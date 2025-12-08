@@ -1,6 +1,6 @@
 ---
 layout: project
-title: ENGRD2020-HW5
+title: ENGRD2020-Project
 description: Mechanism Design
 technologies: [N/a]
 image: /assets/images/hw5-sketch.jpg
